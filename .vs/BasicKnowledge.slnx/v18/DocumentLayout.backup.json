@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\basicknowledge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\basicknowledge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\basicknowledge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\basicknowledge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\copycondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\copycondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\staticcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\staticcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\explicitcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\explicitcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\parameterizedcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C4D18-D0DE-43F3-B21E-9CE3CB40CD14}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\parameterizedcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Two.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "RelativeToolTip": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:04:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessSpecifiersDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:58:35.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstructorsDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:54:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicKnowledge",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeDocumentMoniker": "BasicKnowledge\\BasicKnowledge.csproj",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeToolTip": "BasicKnowledge\\BasicKnowledge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T06:22:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticConDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\StaticConDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\StaticConDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\StaticConDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\Constructors\\StaticConDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:42:20.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CopyConDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\CopyConDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\CopyConDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\CopyConDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\Constructors\\CopyConDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:29:43.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicKnowledge",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeDocumentMoniker": "BasicKnowledge\\BasicKnowledge.csproj",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeToolTip": "BasicKnowledge\\BasicKnowledge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T04:40:35.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParameterizedConDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:15:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExplicitConDemo.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
+              "RelativeToolTip": "BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:51:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Program.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
+              "RelativeToolTip": "BasicKnowledge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:38:09.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

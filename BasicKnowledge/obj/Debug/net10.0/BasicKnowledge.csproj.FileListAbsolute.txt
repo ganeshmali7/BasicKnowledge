@@ -1,0 +1,14 @@
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\bin\Debug\net10.0\BasicKnowledge.exe
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\bin\Debug\net10.0\BasicKnowledge.deps.json
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\bin\Debug\net10.0\BasicKnowledge.runtimeconfig.json
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\bin\Debug\net10.0\BasicKnowledge.dll
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\bin\Debug\net10.0\BasicKnowledge.pdb
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.AssemblyInfoInputs.cache
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.AssemblyInfo.cs
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.csproj.CoreCompileInputs.cache
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.dll
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\refint\BasicKnowledge.dll
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.pdb
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.genruntimeconfig.cache
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\ref\BasicKnowledge.dll
