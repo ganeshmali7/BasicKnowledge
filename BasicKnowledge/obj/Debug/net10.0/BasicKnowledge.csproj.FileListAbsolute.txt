@@ -12,3 +12,4 @@ C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\Ba
 C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.pdb
 C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.genruntimeconfig.cache
 C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\ref\BasicKnowledge.dll
+C:\Users\gmali\OneDrive - MICROLISE LIMITED\Desktop\New folder\BasicKnowledge\BasicKnowledge\obj\Debug\net10.0\BasicKnowledge.sourcelink.json

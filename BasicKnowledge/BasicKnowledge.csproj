@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicKnowledge.AccessSpecifiers.Two</StartupObject>
+    <StartupObject>BasicKnowledge.Inheritance.Class2</StartupObject>
   </PropertyGroup>
 
 </Project>
