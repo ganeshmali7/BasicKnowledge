@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicKnowledge.Inheritance.Class2</StartupObject>
+    <StartupObject>BasicKnowledge.MethodOverriding.Class2</StartupObject>
   </PropertyGroup>
 
 </Project>

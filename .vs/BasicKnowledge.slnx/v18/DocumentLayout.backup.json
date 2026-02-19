@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\methodoverriding\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\methodoverriding\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\methodoverriding\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\methodoverriding\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\basicknowledge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\basicknowledge.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\methodoverloading\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\methodoverloading\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\inheritsnce_base\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\inheritsnce_base\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\inheritsnce_base\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\inheritsnce_base\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\inheritance\\reusablity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\inheritance\\reusablity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\basicknowledge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\basicknowledge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\kindofvariables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\kindofvariables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\inheritance\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\inheritance\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\inheritance\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\inheritance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\kindofvariables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\kindofvariables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\accessspecifiersdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\constructorsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\accessspecifiers\\three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\accessspecifiers\\three.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\staticcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\constructors\\explicitcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\constructors\\explicitcondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|c:\\users\\gmali\\onedrive - microlise limited\\desktop\\new folder\\basicknowledge\\basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52B4BAC8-793F-B74A-AB80-7225C552CC76}|BasicKnowledge\\BasicKnowledge.csproj|solutionrelative:basicknowledge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,63 +93,213 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 147,
+          "SelectedChildIndex": 34,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class2.cs",
-              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Class2.cs",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class2.cs",
-              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Class2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ParentClass.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverriding\\ParentClass.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\MethodOverriding\\ParentClass.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverriding\\ParentClass.cs*",
+              "RelativeToolTip": "BasicKnowledge\\MethodOverriding\\ParentClass.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T12:19:11.521Z",
+              "WhenOpened": "2026-02-19T09:35:23.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class1.cs",
-              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Class1.cs",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class1.cs",
-              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverriding\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\MethodOverriding\\Class1.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverriding\\Class1.cs",
+              "RelativeToolTip": "BasicKnowledge\\MethodOverriding\\Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:54:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reusablity.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Reusablity.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Reusablity.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Reusablity.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Reusablity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:44:29.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritsnce_base\\Child.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritsnce_base\\Child.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritsnce_base\\Child.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritsnce_base\\Child.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T12:17:32.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Variables.cs",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\KindOfVariables\\Variables.cs",
-              "RelativeDocumentMoniker": "BasicKnowledge\\KindOfVariables\\Variables.cs",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\KindOfVariables\\Variables.cs",
-              "RelativeToolTip": "BasicKnowledge\\KindOfVariables\\Variables.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:43:12.763Z",
+              "WhenOpened": "2026-02-19T05:26:25.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Two.cs",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
-              "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
-              "RelativeToolTip": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritsnce_base\\Parent.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritsnce_base\\Parent.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritsnce_base\\Parent.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritsnce_base\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T11:04:37.207Z"
+              "WhenOpened": "2026-02-19T05:25:33.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AccessSpecifiersDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
@@ -129,23 +307,25 @@
               "RelativeToolTip": "BasicKnowledge\\AccessSpecifiers\\AccessSpecifiersDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T10:58:35.901Z"
+              "WhenOpened": "2026-02-17T10:58:35.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ConstructorsDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
               "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
               "RelativeToolTip": "BasicKnowledge\\Constructors\\ConstructorsDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T06:54:52.478Z"
+              "WhenOpened": "2026-02-17T06:54:52.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BasicKnowledge",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
               "RelativeDocumentMoniker": "BasicKnowledge\\BasicKnowledge.csproj",
@@ -158,6 +338,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "BasicKnowledge.csproj",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeDocumentMoniker": "BasicKnowledge\\BasicKnowledge.csproj",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
+              "RelativeToolTip": "BasicKnowledge\\BasicKnowledge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T04:40:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverloading\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\MethodOverloading\\Class1.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\MethodOverloading\\Class1.cs",
+              "RelativeToolTip": "BasicKnowledge\\MethodOverloading\\Class1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:52:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "StaticConDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\StaticConDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\StaticConDemo.cs",
@@ -169,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "CopyConDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\CopyConDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\CopyConDemo.cs",
@@ -181,20 +386,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasicKnowledge.csproj",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
-              "RelativeDocumentMoniker": "BasicKnowledge\\BasicKnowledge.csproj",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\BasicKnowledge.csproj",
-              "RelativeToolTip": "BasicKnowledge\\BasicKnowledge.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-17T04:40:35.995Z",
+              "DocumentIndex": 11,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\KindOfVariables\\Variables.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\KindOfVariables\\Variables.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\KindOfVariables\\Variables.cs",
+              "RelativeToolTip": "BasicKnowledge\\KindOfVariables\\Variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:43:12.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Program.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
+              "RelativeToolTip": "BasicKnowledge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:38:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Two.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "RelativeToolTip": "BasicKnowledge\\AccessSpecifiers\\Two.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:04:37.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class3.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Class3.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class3.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:51:56.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class2.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Class2.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class2.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:19:11.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class1.cs",
+              "RelativeDocumentMoniker": "BasicKnowledge\\Inheritance\\Class1.cs",
+              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Inheritance\\Class1.cs",
+              "RelativeToolTip": "BasicKnowledge\\Inheritance\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:17:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Three.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\AccessSpecifiers\\Three.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\AccessSpecifiers\\Three.cs",
@@ -206,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ParameterizedConDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ParameterizedConDemo.cs",
@@ -218,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ExplicitConDemo.cs",
               "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
               "RelativeDocumentMoniker": "BasicKnowledge\\Constructors\\ExplicitConDemo.cs",
@@ -227,18 +492,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T04:51:16.657Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1921,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
-              "RelativeDocumentMoniker": "BasicKnowledge\\Program.cs",
-              "ToolTip": "C:\\Users\\gmali\\OneDrive - MICROLISE LIMITED\\Desktop\\New folder\\BasicKnowledge\\BasicKnowledge\\Program.cs",
-              "RelativeToolTip": "BasicKnowledge\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T04:38:09.573Z"
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
